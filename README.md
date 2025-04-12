@@ -1,4 +1,4 @@
-![Generative AI Program](images/GenAI.png)
+![Generative AI Program](images/GenAI-Intro.png)
 
 # Generative AI Portfolio
 
@@ -109,7 +109,7 @@ Project file: `HomeMatch.ipynb`
 
 As recognition of completing the Udacity Generative AI Nanodegree, the following certificate verifies the successful completion of all coursework and projects in this program.
 
-![Certificate](Gen-AI-certificate.PNG)
+![Certificate](images/Gen-AI-Certificate.PNG)
 
 [View Verified Certificate](https://www.udacity.com/certificate/e/fd8c371c-e45b-11ef-baf4-4fbc7c56ae11)
 
