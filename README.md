@@ -1,4 +1,6 @@
 
+![Generative AI Program](images/GenAI.png)
+
 # Generative AI Portfolio
 
 **Udacity Nanodegree Program: Generative AI for Software Developers**
@@ -92,7 +94,11 @@ Project file: `HomeMatch.ipynb`
 - Building end-to-end AI applications
 
 ## Certificate
-The completion certificate for the Udacity Generative AI Nanodegree is included in the repository.
+As recognition of completing the Udacity Generative AI Nanodegree, the following certificate verifies the successful completion of all coursework and projects in this program.
+
+![Certificate](images/Gen-AI-Certificate.PNG)
+
+[View Verified Certificate](https://www.udacity.com/certificate/e/fd8c371c-e45b-11ef-baf4-4fbc7c56ae11)
 
 ## License
 This project repository is for educational and portfolio purposes.
